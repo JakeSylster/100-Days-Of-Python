@@ -6,3 +6,4 @@ print(city_name)
 pet_name = input('What\'s your pet\'s name?\n')
 print(pet_name)
 print("Your band name could be " + city_name + " " + pet_name)
+
